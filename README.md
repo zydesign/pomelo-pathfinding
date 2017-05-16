@@ -1,7 +1,6 @@
 # pomelo-pathfinding
-pomelo-pathfinding is the pathfinding module used in lord of pomelo.
-
-This module use A* algorithm to find the path in a map.  
+这是一个用于lordofpomelo的寻路模块.
+采用的是A星算法在地图中生成路径.
 ##Installation
 ```
 npm install pomelo-pathfinding
